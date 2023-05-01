@@ -1,2 +1,2 @@
 # My-C-Practice-Projects
- A personal repository for practicing C programming, containing a variety of projects to work on
+ A personal repository for practicing C programming, containing a variety of projects to work on. The repository is designed to help me practice different concepts of C programming, including data structures, algorithms, and other programming fundamentals. Each project includes a detailed README file with instructions and tips for completing the project. I can use this repository to keep track of my progress, showcase my skills to potential employers, and collaborate with others who are also interested in C programming. As I develop new projects, I can add them to the repository and continue to improve my skills.
